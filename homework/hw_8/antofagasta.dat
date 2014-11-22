@@ -1,4 +1,4 @@
-#latitud	longitud	U(east) error(east)	U(north) error(north)
+#longitud	latitud		U(east) error(east)	U(north) error(north)
 -70.5460002	-23.5260447	-0.527	0.002600	-0.082	0.002800
 -70.5319985	-24.2640430	-0.852	0.002700	-0.283	0.002800
 -70.4990037	-24.9470407	-0.149	0.002700	0.003	0.002800
