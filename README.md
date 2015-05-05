@@ -1,4 +1,3 @@
-ComputationalPhysicsUniandesData
-================================
+# Datos de Métodos Computacionales
 
-Data storage
+Fuentes de datos disponibles para el curso de Métodos Computacionales en Uniandes
