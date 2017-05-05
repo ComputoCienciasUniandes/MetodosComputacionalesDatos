@@ -1,4 +1,4 @@
-Los datos de `proper_yam_final_results.csv` provienen de [este repositorio](https://github.com/saint-germain/planetas_datos/blob/master/README.md).
+Los datos de `highp_finalresults.csv` y `lowp_finalresults.csv` provienen de [este repositorio](https://github.com/saint-germain/planetas_datos/blob/master/README.md).
 
 Las columnas corresponden a
 
